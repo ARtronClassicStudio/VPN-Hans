@@ -4,7 +4,7 @@
 <details>
 <summary>Версия 2.2</summary>
 
-[>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-1V/VPN.Hans.exe) 
+[>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-2V/VPN.Hans.exe) 
   
 ![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/1bd81b2a-5bfb-431a-ad12-f2c276822820)
 
