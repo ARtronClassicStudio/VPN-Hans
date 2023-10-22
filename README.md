@@ -1,11 +1,21 @@
 # Официальная страница VPN-Hans, не скачивайте с других подозрительных источников! 
 # VPN-HANS 的官方页面，请勿从其他可疑来源下载！
 
-# Версия 2.3V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-3V/VPN.Hans.exe) 
+# Версия|版本 2.4V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-3V/VPN.Hans.exe) 
+
+添加了中文。
+
+![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/ef513ec5-9287-4851-9b42-9db96fd21d93)
+
+
+<details>
+<summary>Версия 2.3</summary>
+  
+[>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-3V/VPN.Hans.exe) 
 
   ![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/0373cc9c-c7da-4968-80f7-200e4fe69fb3)
 
-
+</details>
 
 <details>
 <summary>Версия 2.2</summary>
