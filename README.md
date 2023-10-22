@@ -1,7 +1,7 @@
 # Официальная страница VPN-Hans, не скачивайте с других подозрительных источников! 
 # VPN-HANS 的官方页面，请勿从其他可疑来源下载！
 
-# Версия|版本 2.4V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-3V/VPN.Hans.exe) 
+# Версия|版本 2.4V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-4V/VPN.Hans.exe) |  [>>С下载<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-4V/VPN.Hans.exe) 
 
 添加了中文。
 
