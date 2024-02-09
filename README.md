@@ -3,6 +3,14 @@
 
  # Версия 2.5V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-5V/VPN.Hans.exe)
 
+# Что нового?
+Добавлены новые сервера для загрузки больших файлов или для быстрого веб-серфинга.
+
+Добавлена проверка IP:
+
+![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/f5082eb2-2272-40a9-9224-dc113a77c6e7)
+
+
 ![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/f6c767cc-5afb-4cfe-ba2d-8c44fe306153)
 
 
