@@ -3,6 +3,8 @@
 
  # Версия 2.5V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-5V/VPN.Hans.exe)
 
+![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/f6c767cc-5afb-4cfe-ba2d-8c44fe306153)
+
 
 <details>
   <summary>Версия|版本 2.4V</summary>
@@ -13,7 +15,8 @@
 
 ![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/ef513ec5-9287-4851-9b42-9db96fd21d93)
 
-</detalis>
+</details>
+
 <details>
   
 <summary>Версия 2.3</summary>
