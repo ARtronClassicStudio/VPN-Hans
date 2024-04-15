@@ -1,6 +1,19 @@
 # Официальная страница VPN-Hans, не скачивайте с других подозрительных источников! 
 
- # Версия 2.5V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-5V/VPN.Hans.exe)
+ # Версия 2.6V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-6V/VPN.Hans.exe)
+
+# Что нового?
+
+Теперь подключение происходит быстро.
+
+https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/7e9b67a9-c728-4197-977c-4bb5283b0ad9
+
+
+
+<details>
+ <summary> Версия 2.5V </summary>
+ 
+  [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-2V/VPN.Hans.exe)
 
 # Что нового?
 Добавлены новые сервера для загрузки больших файлов или для быстрого веб-серфинга.
@@ -12,6 +25,7 @@
 
 ![image](https://github.com/ARtronClassicStudio/VPN-Hans/assets/68843488/f6c767cc-5afb-4cfe-ba2d-8c44fe306153)
 
+</details>
 
 <details>
   <summary>Версия|版本 2.4V</summary>
