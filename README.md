@@ -1,3 +1,5 @@
+# VPN Сейчас не работает, Ведутся технические работы!
+
 # Официальная страница VPN-Hans, не скачивайте с других подозрительных источников! 
 
  # Версия 2.6V [>>Скачать<<](https://github.com/ARtronClassicStudio/VPN-Hans/releases/download/2-6V/VPN.Hans.exe)
